@@ -66,6 +66,10 @@ The database contains four related tables:
 - SQL Server Management Studio / SQL Server development environment
 - GitHub
 
+## Conclusion
+
+This project demonstrates an end-to-end SQL analysis of retail sales data, covering customer behavior, sales trends, product performance, and customer segmentation. It applies SQL techniques ranging from aggregation and joins to CTEs and window functions to answer practical business questions.
+
 ## Project Files
 
 `RetailSalesAnalytics.sql` contains the database schema and all SQL queries used for the analysis.
