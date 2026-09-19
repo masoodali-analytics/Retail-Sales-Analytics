@@ -29,6 +29,12 @@ The database contains four related tables:
 6. Which products generate the most revenue?
 7. Which customers generate the most revenue?
 8. How can customers be segmented based on total spending?
+## Project Screenshot
+
+### Customer Segmentation Analysis
+
+![Customer Segmentation Analysis](customer-segmentation-analysis.png)
+
 9. What is the average order value?
 10. Which product generates the highest revenue within each category?
 
