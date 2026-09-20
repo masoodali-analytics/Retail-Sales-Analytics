@@ -1,3 +1,5 @@
+![Retail Sales Analytics](retail-sales-analytics-thumbnail.png)
+
 # Retail Sales Analytics — SQL Server
 
 ## Project Overview
